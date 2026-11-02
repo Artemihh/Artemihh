@@ -40,3 +40,13 @@ Check out my pinned repositories below to explore my work.
 ---
 
 *Building, learning, and improving one project at a time.*
+
+🦇 The Night Shift
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Artemihh/Artemihh/output/github-snake-dark.svg"
+    alt="Crimson contribution animation"
+    width="100%"
+  />
+</p>
