@@ -41,22 +41,20 @@ Check out my pinned repositories below to explore my work.
 
 *Building, learning, and improving one project at a time.*
 
+
 <div align="center">
 
 <h2>🦇 The Night Shift</h2>
-<p><i>Building after dark.</i></p>
 
-<img
-  src="./Gothic Crimson Castle at Moonrise.png"
-  alt="Gothic crimson frame with a castle"
-  width="100%"
-/>
+<p><i>Building after dark.</i></p>
 
 <img
   src="https://raw.githubusercontent.com/Artemihh/Artemihh/output/github-snake-dark.svg"
   alt="Crimson contribution animation"
   width="100%"
 />
+
+<p><sub>━━━ ⋆ 🦇 ⋆ ━━━</sub></p>
 
 <p><sub>BUILD • LEARN • REPEAT</sub></p>
 
